@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav kushwaha</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavkush" alt="vaibhavkush" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/iam_vaibhav1807" target="blank"><img src="https://img.shields.io/twitter/follow/iam_vaibhav1807?logo=twitter&style=for-the-badge" alt="iam_vaibhav1807" /></a> </p>
-
 - 🌱 I’m currently learning **Java and C#**
 
 - 💬 Ask me about **DSA,React,Express,Node,MySQL**
